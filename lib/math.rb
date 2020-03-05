@@ -19,5 +19,5 @@ p num1%num2
 end
 
 def square_root(num)
-ath.sqrt(num)
+Math.sqrt(num)
 end
